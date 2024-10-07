@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "tp_03_pengenalan_dart",
+            "cwd": "TP\\tp_03_pengenalan_dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tp_03_pengenalan_dart (profile mode)",
+            "cwd": "TP\\tp_03_pengenalan_dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tp_03_pengenalan_dart (release mode)",
+            "cwd": "TP\\tp_03_pengenalan_dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

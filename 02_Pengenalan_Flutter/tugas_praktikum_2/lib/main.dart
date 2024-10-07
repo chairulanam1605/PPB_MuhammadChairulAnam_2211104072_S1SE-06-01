@@ -1,19 +1,21 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Biodata Card'),
+          title: const Text('Biodata Card'),
         ),
-        body: Center(
+        body: const Center(
           child: BiodataCard(),
         ),
       ),
@@ -22,17 +24,19 @@ class MyApp extends StatelessWidget {
 }
 
 class BiodataCard extends StatelessWidget {
+  const BiodataCard({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Card(
       color: Colors.greenAccent[400],
       elevation: 5,
-      margin: EdgeInsets.all(16),
+      margin: const EdgeInsets.all(16),
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(15),
       ),
-      child: Padding(
-        padding: const EdgeInsets.all(16.0),
+      child: const Padding(
+        padding: EdgeInsets.all(16.0),
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
