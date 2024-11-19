@@ -14,11 +14,11 @@ CRUD singkatan dari :
 - UPDATE : Operasi untuk memperbarui data yang sudah ada di basis data
 - DELETE : Operasi untuk menghapus data dari basis data
 
-3. uliskan kode SQL untuk membuat tabel bernama users dengan kolom berikut:
-<li> id (integer, primary key, auto increment)
-<li> name (text)
-<li> email (text)
-<li> createdAt (timestamp, default value adalah waktu sekarang)
+3. Tuliskan kode SQL untuk membuat tabel bernama users dengan kolom berikut:
+- id (integer, primary key, auto increment)
+- name (text)
+- email (text)
+- createdAt (timestamp, default value adalah waktu sekarang)
 Jawab :
 CREATE TABLE users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
