@@ -8,7 +8,8 @@ Jawab :
 
 SQLite adalah sistem manajemen basis data ringan yang sering digunakan dalam pengembangan aplikasi mobile yang memiliki fungsi menyimpan data lokal di perangkat pengguna tanpa memerlukan koneksi; Untuk mengelola data dengan menggunakan operasi CRUD; Cepat, efisien dan memiliki footprint kecil sehingga cocok untuk aplikasi mobile.
 
-3. Apa saja yang dimaksud dengan operasi CRUD? Berikan penjelasan singkat untuk masing-masing operasi!
+2. Apa saja yang dimaksud dengan operasi CRUD? Berikan penjelasan singkat untuk masing-masing operasi!
+   
 Jawab:
 
 CRUD singkatan dari :
