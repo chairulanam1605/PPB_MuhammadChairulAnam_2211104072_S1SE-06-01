@@ -36,5 +36,6 @@ Jawab :
 <li> menggunakan fungsi seperti insert,query,update dan delete untuk memanipulasi data
 
 5. Lengkapi kode berikut untuk membaca semua data dari tabel users menggunakan sqflite.
+
 Jawab :
 ![image alt](https://github.com/chairulanam1605/Praktikum_PPB/blob/main/TP10_Soal5.png)
