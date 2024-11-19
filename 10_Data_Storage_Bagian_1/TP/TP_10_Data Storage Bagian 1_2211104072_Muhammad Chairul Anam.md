@@ -27,12 +27,7 @@ CRUD singkatan dari :
 
 Jawab :
 
-CREATE TABLE users (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name TEXT NOT NULL,
-    email TEXT NOT NULL,
-    createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+![image alt](https://github.com/chairulanam1605/Praktikum_PPB/blob/main/TP10_Soal3.png)
 
 4. Sebutkan langkah-langkah utama untuk menggunakan plugin sqflite di dalam Flutter!
 
