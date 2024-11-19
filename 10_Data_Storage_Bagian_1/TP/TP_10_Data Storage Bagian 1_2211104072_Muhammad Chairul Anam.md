@@ -37,8 +37,4 @@ Jawab :
 
 5. Lengkapi kode berikut untuk membaca semua data dari tabel users menggunakan sqflite.
 Jawab :
-
-static Future<List<Map<String, dynamic>>> getUsers() async {
-  final db = await SQLHelper.db();
-  return db.query('users');
-}
+![image alt](https://github.com/chairulanam1605/Praktikum_PPB/blob/main/TP10_Soal5.png)
